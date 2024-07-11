@@ -1,0 +1,10 @@
+x=12
+y=-10
+z=11212121212121212121212121 
+c=12e15
+k=19.0
+print("positive---",x)
+print("negative----",y)
+print("unlimited----",z)
+print("syntific---",c)
+print("decimal---",k)
